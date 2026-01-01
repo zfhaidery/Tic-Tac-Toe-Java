@@ -32,4 +32,3 @@ The game includes proper win detection, draw handling, input validation, and cle
 - Scanner for input
 - 2D array for board representation
 
-## Folder Structure
